@@ -1,1 +1,2 @@
 "contenido A" 
+"nuevo contenido que tengo que eliminar"
